@@ -1,6 +1,9 @@
 <h1><strong>Brew Bliss cafe</strong><br><br></h1>
 <h4>Brew bliss is a fully responsive cafe website,<br>
 Responsive for all devices, build using HTML, CSS,PHP, SQL and JavaScript.<br><br></h4>
+Our slide ---> [Presentation Link 1](https://www.canva.com/design/DAGpjbt7TDho/gnk3DJ5_m9lFdH7wKAmANQ/edit)
+[Presentation Link 2](https://www.canva.com/design/DAG2wiIS860/ys-bwa5gMrnzNg8qsOirA/edit?utm_content=DAG2wiIS860&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 Our slide ---> [[https://www.canva.com/design/DAGpjbT7DHo/gnk3DJ5_m9IFdH7wKamANQ/edit](https://www.canva.com/design/DAG2wiIS860/ys-bwa5gMrnzNg8gsOiraA/edit?utm_content=DAG2wiIS860&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.canva.com/design/DAG2wiIS860/ys-bwa5gMrnzNg8gsOiraA/edit?utm_content=DAG2wiIS860&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)<br><br>
 <h2><strong>Demo Screenshot</strong><br></h2>
 
